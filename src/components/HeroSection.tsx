@@ -39,7 +39,7 @@ export function HeroSection() {
       <div
         className="absolute inset-0 opacity-30"
         style={{
-          backgroundImage: "url('/images/hero-bg.png')",
+          backgroundImage: "url('/oliver-blog/images/hero-bg.png')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}

@@ -6,17 +6,17 @@ import { useI18n } from "@/lib/i18n"
 const projectMeta = [
   {
     id: "ai-customer-service",
-    image: "/images/project-ai-customer-service.png",
+    image: "/oliver-blog/images/project-ai-customer-service.png",
     icon: <Bot className="h-5 w-5" />,
     tags: ["LLM", "RAG", "React", "Node.js", "Python", "Vector DB"],
-    videoSrc: "/videos/ai-customer-service-demo.mp4",
+    videoSrc: "/oliver-blog/videos/ai-customer-service-demo.mp4",
   },
   {
     id: "ai-sales-assistant",
-    image: "/images/project-ai-sales-assistant.png",
+    image: "/oliver-blog/images/project-ai-sales-assistant.png",
     icon: <ShoppingCart className="h-5 w-5" />,
     tags: ["GPT-4", "Python", "React", "PostgreSQL", "LangChain"],
-    videoSrc: "/videos/ai-sales-assistant-demo.mp4",
+    videoSrc: "/oliver-blog/videos/ai-sales-assistant-demo.mp4",
   },
 ]
 
