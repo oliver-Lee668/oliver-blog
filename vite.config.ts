@@ -4,6 +4,8 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/oliver-blog/',
+  
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
